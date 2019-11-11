@@ -1,11 +1,13 @@
 # test3-laravel-vue-crud-simple-app
 
-1) copmoser update
+1) add your .env file
 
-2) php artisan passport:install
+2) copmoser update
 
-3) add your .env file
+3) php artisan passport:install
 
-4) npm install
+4) php artisan migrate 
 
-5) npm run dev
+5) npm install
+
+6) npm run dev
