@@ -2,7 +2,7 @@
 
 1) add your .env file
 
-2) copmoser update
+2) composer update
 
 3) php artisan migrate 
 
