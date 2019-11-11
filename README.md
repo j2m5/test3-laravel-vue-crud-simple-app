@@ -4,9 +4,9 @@
 
 2) copmoser update
 
-3) php artisan passport:install
+3) php artisan migrate 
 
-4) php artisan migrate 
+4) php artisan passport:install
 
 5) npm install
 
